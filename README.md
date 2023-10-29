@@ -1,1 +1,1 @@
-# GOTJ
+# Guardian-of-the-Jungle
