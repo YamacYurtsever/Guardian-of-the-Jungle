@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Health Bar
+  - Town Hall
+  - Enemy Spawner
+  - Tree Holder
+  - Enemy
+  - Background 1
+  - Background 2
+  - Projectile
+  - Nights Survived
+  - Nights Survived Text
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Seed
+  - Tree
+  - Town Hall
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Seed
+    uniqueID: 3188357697
+    locked: 0
+  - name: Ground
+    uniqueID: 704747335
+    locked: 0
+  - name: Tree
+    uniqueID: 3446868207
+    locked: 0
+  - name: Player
+    uniqueID: 2354031047
+    locked: 0
+  - name: Projectile
+    uniqueID: 3393046383
+    locked: 0
